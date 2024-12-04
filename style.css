@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-h1,
-h2 {
+h1, h2 {
     padding-left: 1em;
 }
 
@@ -22,12 +21,9 @@ h2 {
     border: 1px solid rgb(162, 0, 0);
     background-color: rgb(141, 4, 4);
     width: 25vw;
-    /* padding: 0.4rem; */
 }
 
-img {
-    /* padding-left: 1em; */
-}
+
 
 div {
     padding-left: 1em;
@@ -50,10 +46,6 @@ p {
 }
 
 
-.logo {
-    /* position: absolute; */
-
-}
 
 nav {
 
